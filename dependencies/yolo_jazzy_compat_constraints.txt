@@ -1,0 +1,4 @@
+# Proven compatible in overlay with the tested ROS 2 Jazzy cv_bridge build.
+# NOT a complete requirements lockfile; use alongside the ROS-enabled YOLO interpreter.
+numpy==1.26.4
+opencv-python==4.11.0.86

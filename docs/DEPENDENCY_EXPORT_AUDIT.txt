@@ -1,0 +1,4 @@
+YOLO: 423 safe exact-version lines included; 0 nonstandard lines omitted.
+EVO: 235 safe exact-version lines included; 0 nonstandard lines omitted.
+Omitted entries are NOT recorded to avoid accidentally disclosing URL tokens or personal paths.
+Review the original local pip freeze files if omissions are nonzero.

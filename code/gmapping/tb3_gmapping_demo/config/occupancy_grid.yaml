@@ -1,0 +1,3 @@
+use_sim_time: true
+resolution: 0.05
+publish_period_sec: 1.0

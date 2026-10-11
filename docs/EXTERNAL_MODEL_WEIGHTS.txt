@@ -1,0 +1,5 @@
+YOLO weights used in local experiment (not included): yolov8n.pt
+sha256: f59b3d833e2ff32e194b5bb8e08d211dc7c5bdf144b90d2c8412c47ccfc83b36
+size_bytes: 6549796
+Exact licensed download source/version has not yet been documented.
+Check redistribution rights before bundling or publishing the binary.

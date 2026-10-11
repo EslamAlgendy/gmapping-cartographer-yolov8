@@ -1,0 +1,9 @@
+Package review report (no absolute source paths stored).
+Removed duplicate h.py: True
+Unique AWS residential model folders needed: 64
+AWS folders found at supplied models root: 64
+AWS model folders included in this review ZIP: False
+Gazebo built-in/system models are not checked in this scan.
+Original package's maps.zip remains omitted (previously verified byte-identical maps).
+
+V8 curated public review excludes uncertain upstream copies and has separate license scope: docs/PUBLIC_RELEASE_SCOPE_V8.md.

@@ -1,0 +1,5 @@
+condition,ape_rmse,rpe_rmse,provenance,ape_archive,rpe_archive
+GMapping,0.3179864583080687,0.20141431104798016,original_saved,ape_gmapping.json,rpe_gmapping.json
+GMapping + YOLOv8,1.9036671588213165,0.25555064219964896,recomputed_from_TUM,ape_gmapping_yolo.zip,rpe_gmapping_yolo.zip
+Cartographer,0.27365825318909964,0.119460533030074,original_saved,ape_cartographer.json,rpe_cartographer.json
+Cartographer + YOLOv8,0.4507583951868215,0.1204294271824826,original_saved,ape_cartographer_yolo.json,rpe_cartographer_yolo.json

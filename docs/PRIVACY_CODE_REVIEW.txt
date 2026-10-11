@@ -1,0 +1,1 @@
+V7 redacted personal home-directory strings from EVO `info.json` ref/est paths; quantitative content unchanged. See docs/EVO_METADATA_PRIVACY_AUDIT.json. Other code, package.xml maintainer attributions and original launch snapshots were retained; manual privacy/rights review remains mandatory. No automated scan guarantees absence of private information.

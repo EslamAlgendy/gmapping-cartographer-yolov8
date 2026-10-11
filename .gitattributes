@@ -1,0 +1,18 @@
+# Scientific raster maps and compressed EVO artifacts
+*.pgm binary
+results/metrics/ape_cartographer.json binary
+results/metrics/ape_cartographer_yolo.json binary
+results/metrics/ape_gmapping.json binary
+results/metrics/rpe_cartographer.json binary
+results/metrics/rpe_cartographer_yolo.json binary
+results/metrics/rpe_gmapping.json binary
+results/metrics/*.zip binary
+
+# Source and documentation
+*.py text eol=lf
+*.md text eol=lf
+*.lua text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.xml text eol=lf
+*.sh text eol=lf

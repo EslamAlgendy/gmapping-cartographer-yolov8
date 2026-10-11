@@ -1,0 +1,5 @@
+# Results preservation and EVO path normalization
+
+The eight EVO zip-format result archives contained local absolute workstation paths as `ref_name` and `est_name` in member `info.json`. In V7 **only those path strings** were replaced with the relative `results/metrics/<filename>` equivalents for privacy/portability. This changes outer EVO archive SHA256 but **keeps all `stats.json` and `*.npy` content bytes exactly equal to V6**. `docs/EVO_METADATA_PRIVACY_AUDIT.json` records original V6 hashes. All trajectories, maps and numerical experiment files were retained. Preserve V6 privately if original metadata bytes are needed for provenance.
+
+Two GMapping+YOLOv8 metric containers (`ape_gmapping_yolo.zip`, `rpe_gmapping_yolo.zip`) were recomputed from available TUM trajectory files on 2026-10-11. They are **not** original result archives; see `docs/RESULTS_RECOMPUTATION.md`. Other saved EVO files named `.json` are zip-format result containers, not JSON. Their metric's title is `full transformation (unit-less)`, so do not re-label as meters or draw causal claims without matching evaluation conditions. Raw sensor bags were not available for replay.

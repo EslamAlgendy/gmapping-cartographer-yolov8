@@ -1,0 +1,27 @@
+# Recorded local commits; repository pages verified, commit ancestry not rechecked online
+
+TurtleBot3
+  remote: https://github.com/ROBOTIS-GIT/turtlebot3.git
+  local branch: main
+  git commit: da785b7201d317e6e2a662e41bb3d3fd50ebd503
+
+TurtleBot3 Simulations
+  remote: https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+  local branch: humble
+  git commit: a35a56c8b04877dc89772b598084d8ce648a9023
+
+TurtleBot3 Messages
+  remote: https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
+  local branch: humble
+  git commit: cdee60f7618b9ed2f85f65259c0f96e3f02b1c55
+
+slam_gmapping
+  original remote: NOT YET CONFIRMED FROM RESEARCHER'S `git remote -v`
+  local branch: eloquent-devel
+  git commit: 3c3de50c071d2c64ffe516e1ed84a574fc447b97
+  modified patch: code/patches/slam_gmapping_modified_header.patch
+  exact fresh checkout/patch/build: NOT YET VERIFIED
+
+AWS RoboMaker small house world
+  repository reference: https://github.com/aws-robotics/aws-robomaker-small-house-world
+  source commit and redistribution rights for included references: NEED REVIEW

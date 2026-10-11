@@ -1,0 +1,41 @@
+# ROS 2 / colcon generated artifacts
+build/
+install/
+log/
+.ros/
+
+# Python local environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+yolo_venv/
+evo_venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Large runtime downloads and private configurations (not distributed)
+*.pt
+*.pth
+*.onnx
+*.engine
+*.bag
+*.db3
+*.db3-wal
+*.db3-shm
+*.mcap
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Gazebo / editor local caches
+.cache/
+.vscode/
+.idea/
+*.log
+
+# NOTE: DO NOT ignore *.zip or *.pgm globally:
+# the repo intentionally includes EVO ZIP-format archives and occupancy maps.

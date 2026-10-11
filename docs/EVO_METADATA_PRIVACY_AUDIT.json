@@ -1,0 +1,78 @@
+{
+  "source_v6_sha256": "40d555670517fee24741d936b464820c3bbd46b5c7cbbe83f29860e41a901708",
+  "description": "Only ref_name and est_name paths in EVO info.json altered; all stats.json and *.npy member bytes preserved.",
+  "archives": [
+    {
+      "evo_file": "results/metrics/ape_cartographer.json",
+      "updated_metadata_fields": [
+        "ref_name",
+        "est_name"
+      ],
+      "v6_sha256": "80f4baae9530a0315c2af829436ad7ce5f8af8b9a5a978d694f5f2584d03dd22",
+      "numerical_payload_preserved": true
+    },
+    {
+      "evo_file": "results/metrics/ape_cartographer_yolo.json",
+      "updated_metadata_fields": [
+        "ref_name",
+        "est_name"
+      ],
+      "v6_sha256": "dab690c5afe5bb6f6658e53ae2aab532adc94bca723ec2a5605b6d0de0b0f9c6",
+      "numerical_payload_preserved": true
+    },
+    {
+      "evo_file": "results/metrics/ape_gmapping.json",
+      "updated_metadata_fields": [
+        "ref_name",
+        "est_name"
+      ],
+      "v6_sha256": "2abe0671a2da48e6cb4dff949b2822200882d6aa21ea38fca43392b7c0d3fef1",
+      "numerical_payload_preserved": true
+    },
+    {
+      "evo_file": "results/metrics/ape_gmapping_yolo.zip",
+      "updated_metadata_fields": [
+        "ref_name",
+        "est_name"
+      ],
+      "v6_sha256": "77d7bc2d7776dea71366d5d3d3cec495bfd2ccc0581c5b7d724c25b465d90a4c",
+      "numerical_payload_preserved": true
+    },
+    {
+      "evo_file": "results/metrics/rpe_cartographer.json",
+      "updated_metadata_fields": [
+        "ref_name",
+        "est_name"
+      ],
+      "v6_sha256": "dd3346da28206b40394004533170f796e0b39708955bc7a3cd539d4d16744beb",
+      "numerical_payload_preserved": true
+    },
+    {
+      "evo_file": "results/metrics/rpe_cartographer_yolo.json",
+      "updated_metadata_fields": [
+        "ref_name",
+        "est_name"
+      ],
+      "v6_sha256": "e27b10dcadb9e709be28a9018944303119549c9140ded1c16c8c7f7d0b79f0f9",
+      "numerical_payload_preserved": true
+    },
+    {
+      "evo_file": "results/metrics/rpe_gmapping.json",
+      "updated_metadata_fields": [
+        "ref_name",
+        "est_name"
+      ],
+      "v6_sha256": "a349f4f656fb2ce06798227611b56a01ac7f5dbec4e51ac79e11014e4b3ee499",
+      "numerical_payload_preserved": true
+    },
+    {
+      "evo_file": "results/metrics/rpe_gmapping_yolo.zip",
+      "updated_metadata_fields": [
+        "ref_name",
+        "est_name"
+      ],
+      "v6_sha256": "30c451f968f898e628521e777cdc5db0068b24ac08657c73bf9de49821f7da67",
+      "numerical_payload_preserved": true
+    }
+  ]
+}

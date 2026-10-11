@@ -1,0 +1,14 @@
+# Citation for the published, versioned Zenodo source of this GitHub mirror.
+# Mixed-content licensing: see README.md and docs/LICENSE_SCOPE_AND_THIRD_PARTY.md.
+cff-version: 1.2.0
+message: "Please cite the Zenodo versioned release if you use this software or its research artifacts."
+title: "GMapping and Cartographer with YOLOv8: ROS 2 Simulation Code and SLAM Evaluation Artifacts"
+type: software
+authors:
+  - family-names: Hamed
+    given-names: Eslam Ibrahem
+    email: eslam.hamed@must.edu.eg
+version: 1.0.0-rc1
+date-released: 2026-10-11
+doi: 10.5281/zenodo.23297292
+url: https://doi.org/10.5281/zenodo.23297292
